@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400;600;700;900&display=swap');
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+:root {
+    --font-family: 'Source Sans Pro', sans-serif;
+    --main-bg-color: #141414;
+    --background-highlight: #221F1F;
+    --background-press: #000;
+    --text-base: #fff;
+    --text-subdued: #a7a7a7;
+    --now-playing-background: rgba(40, 40, 40, 50%);
+    --movie-details-buttons: rgba(255, 0, 0, .798);
+    --movie-details-buttons-hover: rgba(255, 0, 0, .5);
+  }
+  
+  h1, h2, h3, h4, h5, h6, p {
+    padding: 0;
+    margin: 0;
+    color: var(--text-base);
+    font-family: var(--font-family);
+  }
+  
+  html {
+    /* background-color: var(--background-press); */
+  }
+  
+  .App {
+    width: 100vw;
+    height: 100vh;
+  }
