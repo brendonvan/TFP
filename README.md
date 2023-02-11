@@ -1,8 +1,9 @@
 # TFP - Time For Print
 
-https://user-images.githubusercontent.com/108159910/210470016-0d629a0f-9862-4277-b531-d27a89dd373b.mp4
+<img width="1383" alt="Inspo" src="https://user-images.githubusercontent.com/108159910/218229123-fd0f5e83-b0e4-44ba-a882-3d0393d6f412.png">
 
-Version 1 
+Version 1
+
 Prepared by Brendon Van
 
 January 1 2023
