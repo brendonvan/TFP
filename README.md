@@ -12,7 +12,7 @@ https://www.tfp.support
 
 
 ## Project Description
-Tinder but for photographers, videographers, and other professionals or enthusiasts in the media production industry. UI/UX inspired by Jurre Houtkamp & Serge Strokov. 
+Tinder but for photographers, videographers, and other professionals or enthusiasts in the media production industry.
 Utilized a MERN stack to build a full stack application in 1 week with de-coupled React frontend and Express backend.
 
 ---
