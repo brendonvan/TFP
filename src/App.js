@@ -9,8 +9,8 @@ function App() {
   async function getPalette() {
     //TODO:
     //TODO grab images uploaded from database
-    setBackgroundColor(Vibrant.from('./images/test.jpg').getPalette((err, palette) => console.log(`html { background-color: rgb(${palette.Vibrant.rgb.toString()}); }`)))
-    await console.log(getPalette())
+    await setBackgroundColor(Vibrant.from('./images/test.jpg').getPalette((err, palette) => setBackgroundColor(palette.Vibrant.rgb.toString())))
+    
   }
 
   useEffect(() => {
@@ -21,7 +21,7 @@ function App() {
     <HelmetProvider>
       <div className="App" >
         <Helmet>
-          <style>{'body { background-color: black; }'}</style>
+          <style>{ backgroundColor ? `html { background: radial-gradient(rgb(${backgroundColor}) -200%, black 120%);` : 'html { background: black; }' }</style>
         </Helmet>
       </div>
     </HelmetProvider>
