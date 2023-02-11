@@ -1,6 +1,7 @@
 # TFP - Time For Print
 
 <img width="1383" alt="Inspo" src="https://user-images.githubusercontent.com/108159910/218229123-fd0f5e83-b0e4-44ba-a882-3d0393d6f412.png">
+UI/UX Inspired by Alaa Alfaki
 
 Version 1
 
@@ -13,7 +14,7 @@ https://www.tfp.support
 
 
 ## Project Description
-Tinder but for photographers, videographers, and other professionals or enthusiasts in the media production industry.
+Tinder but for photographers, videographers, and other professionals or enthusiasts in the media production industry. 
 Utilized a MERN stack to build a full stack application in 1 week with de-coupled React frontend and Express backend.
 
 ---
