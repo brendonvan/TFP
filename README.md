@@ -68,45 +68,45 @@ Utilized a MERN stack to build a full stack application in 1 week with de-couple
 
 ---
 # ERDs
-Entities:
+***Entities:***
 
-User: Each user will have a unique profile and be able to swipe on other users' profiles, send and receive messages, and create and edit their own profile.
+- User: Each user will have a unique profile and be able to swipe on other users' profiles, send and receive messages, and create and edit their own profile.
 
-Profile: Each user will have a profile that includes information such as name, location, skills, portfolio, work experience, education, and social media links.
+- Profile: Each user will have a profile that includes information such as name, location, skills, portfolio, work experience, education, and social media links.
 
-Swipe: Each swipe on another user's profile will be recorded and used to determine matches.
+- Swipe: Each swipe on another user's profile will be recorded and used to determine matches.
 
-Match: A match occurs when two users have both swiped right on each other's profiles.
+- Match: A match occurs when two users have both swiped right on each other's profiles.
 
-Message: Users can send and receive messages to each other within the app to discuss potential projects or collaborations.
+- Message: Users can send and receive messages to each other within the app to discuss potential projects or collaborations.
 
-Relationships:
+***Relationships:***
 
-One user can have one profile.
+- One user can have one profile.
 
-One user can have many swipes.
+- One user can have many swipes.
 
-Many swipes can result in one match.
+- Many swipes can result in one match.
 
-Many matches can result in many messages.
+- Many matches can result in many messages.
 
-One profile can have many portfolio items.
+- One profile can have many portfolio items.
 
-One profile can have many work experiences.
+- One profile can have many work experiences.
 ---
 # API
 
-Authentication API: For securely handling user authentication and authorization, you could use a service such as Firebase Authentication or Auth0.
+- Authentication API: For securely handling user authentication and authorization, you could use a service such as Firebase Authentication or Auth0.
 
-Cloud Storage API: To store and retrieve user portfolios, images, and other media, you could use a cloud storage solution such as Amazon S3 or Google Cloud Storage.
+- Cloud Storage API: To store and retrieve user portfolios, images, and other media, you could use a cloud storage solution such as Amazon S3 or Google Cloud Storage.
 
-Geolocation API: To enable location-based search and matching, you could use a geolocation API such as Google Maps API or OpenStreetMap.
+- Geolocation API: To enable location-based search and matching, you could use a geolocation API such as Google Maps API or OpenStreetMap.
 
-Push Notification API: To send notifications to users when they receive a new match or message, you could use a push notification API such as Firebase Cloud Messaging or OneSignal.
+- Push Notification API: To send notifications to users when they receive a new match or message, you could use a push notification API such as Firebase Cloud Messaging or OneSignal.
 
-Image Processing API: To process user images and portfolios, you could use an image processing API such as Cloudinary or Imgix.
+- Image Processing API: To process user images and portfolios, you could use an image processing API such as Cloudinary or Imgix.
 
-Payment API: To enable users to pay for premium features or services, you could use a payment gateway API such as Stripe or PayPal.
+- Payment API: To enable users to pay for premium features or services, you could use a payment gateway API such as Stripe or PayPal.
 
 ## API Response
 
@@ -117,27 +117,27 @@ Payment API: To enable users to pay for premium features or services, you could 
 ```
 
 # Component Hierarchy
-App: The top-level component that serves as the container for all other components and handles state management.
+- App: The top-level component that serves as the container for all other components and handles state management.
 
-Sign Up: The component that allows new users to create an account by providing their email address, password, and basic information.
+- Sign Up: The component that allows new users to create an account by providing their email address, password, and basic information.
 
-Login: The component that allows users to log in to their existing account.
+- Login: The component that allows users to log in to their existing account.
 
-Profile Creation: The component that allows users to create their profile by uploading a profile picture, portfolio, and additional information such as work experience, education, and social media links.
+- Profile Creation: The component that allows users to create their profile by uploading a profile picture, portfolio, and additional information such as work experience, education, and social media links.
 
-Swipe Screen: The component that allows users to swipe left or right on other users' profiles to express interest or disinterest in connecting.
+- Swipe Screen: The component that allows users to swipe left or right on other users' profiles to express interest or disinterest in connecting.
 
-Matches: The component that shows the user's matches and allows them to start messaging other professionals within the app.
+- Matches: The component that shows the user's matches and allows them to start messaging other professionals within the app.
 
-Search: The component that allows users to search for other professionals based on specific criteria such as location, skills, and work history.
+- Search: The component that allows users to search for other professionals based on specific criteria such as location, skills, and work history.
 
-Messaging: The component that allows users to send and receive messages to and from other professionals within the app.
+- Messaging: The component that allows users to send and receive messages to and from other professionals within the app.
 
-Edit Profile: The component that allows users to edit their profile at any time to update their information, portfolio, or other details.
+- Edit Profile: The component that allows users to edit their profile at any time to update their information, portfolio, or other details.
 
-Portfolio Item: The component that displays each item in a user's portfolio.
+- Portfolio Item: The component that displays each item in a user's portfolio.
 
-Work Experience: The component that displays each item in a user's work experience.
+- Work Experience: The component that displays each item in a user's work experience.
 
 
 # Contributors
