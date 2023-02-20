@@ -9,7 +9,6 @@ Prepared by Brendon Van
 
 January 1 2023
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4b33aefe-a449-4fba-9d5d-0b96db0b064c/deploy-status)](https://app.netlify.com/sites/legendary-sunburst-8800a7/deploys)
 https://www.tfp.support
 
 
