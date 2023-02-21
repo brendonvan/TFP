@@ -99,8 +99,8 @@ Utilized a MERN stack to build a full stack application in 1 week with de-couple
 
 - Authentication API: For securely handling user authentication and authorization, you could use a service such as Firebase Authentication or Auth0.
 
-https://firebase.google.com/docs/auth
-https://auth0.com/docs/
+- https://firebase.google.com/docs/auth
+- https://auth0.com/docs/
 
 - Cloud Storage API: To store and retrieve user portfolios, images, and other media, you could use a cloud storage solution such as Amazon S3 or Google Cloud Storage.
 
