@@ -104,25 +104,25 @@ https://auth0.com/docs/
 
 - Cloud Storage API: To store and retrieve user portfolios, images, and other media, you could use a cloud storage solution such as Amazon S3 or Google Cloud Storage.
 
-https://firebase.google.com/docs/firestore
-https://aws.amazon.com/s3/?nc=sn&loc=1
+- https://firebase.google.com/docs/firestore
+- https://aws.amazon.com/s3/?nc=sn&loc=1
 
 - Geolocation API: To enable location-based search and matching, you could use a geolocation API such as Google Maps API or OpenStreetMap.
 
-https://developers.google.com/maps/documentation
+- https://developers.google.com/maps/documentation
 
 - Push Notification API: To send notifications to users when they receive a new match or message, you could use a push notification API such as Firebase Cloud Messaging or OneSignal.
 
-https://firebase.google.com/docs/cloud-messaging
-https://pusher.com/docs/
+- https://firebase.google.com/docs/cloud-messaging
+- https://pusher.com/docs/
 
 - Image Processing API: To process user images and portfolios, you could use an image processing API such as Cloudinary or Imgix.
 
-https://docs.aws.amazon.com/rekognition/index.html
+- https://docs.aws.amazon.com/rekognition/index.html
 
 - Payment API: To enable users to pay for premium features or services, you could use a payment gateway API such as Stripe or PayPal.
 
-https://stripe.com/docs/payments
+- https://stripe.com/docs/payments
 
 ## API Response
 
