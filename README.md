@@ -1,6 +1,6 @@
 # TFP - Time For Print
 <img width="1383" alt="Inspo" src="https://user-images.githubusercontent.com/108159910/224586476-51cddf02-a00c-48d5-ae24-ae979a3a8e46.png">
-***The photo above is not the Design of this project. It is an inspo photo from: [Here](https://dribbble.com/shots/18852672-Mobile-Design-for-Dating-App)***
+The photo above is not the Design of this project. It is an inspo photo from: [Here](https://dribbble.com/shots/18852672-Mobile-Design-for-Dating-App)
 
 Version 1
 
