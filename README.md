@@ -1,7 +1,6 @@
 # TFP - Time For Print
-
-<img width="1383" alt="Inspo" src="https://user-images.githubusercontent.com/108159910/218229123-fd0f5e83-b0e4-44ba-a882-3d0393d6f412.png">
-UI/UX Inspired by Alaa Alfaki
+<img width="1383" alt="Inspo" src="https://user-images.githubusercontent.com/108159910/224586476-51cddf02-a00c-48d5-ae24-ae979a3a8e46.png">
+***The photo above is not the UI/UX Design of this project it is a inspo photo from: https://dribbble.com/shots/18852672-Mobile-Design-for-Dating-App***
 
 Version 1
 
