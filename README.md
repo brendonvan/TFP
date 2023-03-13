@@ -4,12 +4,11 @@
 
 Version 1
 
-Prepared by Brendon Van
+Prepared by TFP Team
 
 January 1 2023
 
 https://www.tfp.support
-
 
 ## Project Description
 Tinder but for photographers, videographers, and other professionals or enthusiasts in the media production industry. 
